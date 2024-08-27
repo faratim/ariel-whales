@@ -1,0 +1,63 @@
+body {
+    background-color: #3414ff;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to top left, #42a1f5, #3414ff);
+}
+
+h1 {
+    color: white;
+    font-size: 5rem;
+    margin: 0;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    white-space: nowrap;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    color: white;
+    font-size: 2rem;
+    margin: 0;
+    text-align: center;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+#homepage-whale-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.homepage-whale-image {
+    width: 30%;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+.main-content-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    color: #d9d9d9;
+    font-size: 1.2rem;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    padding: 0 2rem 0 1rem;
+}
+
+.ariel-and-whaley-pic-container {
+    text-align: center;
+}
+
+.ariel-and-whaley {
+    text-align: center;
+    height: 20em;
+    margin: 0 auto;
+}
